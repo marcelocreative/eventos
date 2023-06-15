@@ -1,0 +1,18 @@
+package com.mgsystems.eventos.entidades;
+
+import java.time.Instant;
+
+import jakarta.persistence.JoinColumn;
+import jakarta.persistence.ManyToOne;
+
+public class Bloco {
+	
+	private Integer id;
+	private Instant inicio;
+	private Instant fim;
+	
+	@ManyToOne
+	@JoinColumn(name= "atividade_id")
+	private Atividade atividade;
+
+}

@@ -1,0 +1,10 @@
+package com.mgsystems.eventos;
+
+public class Categoria {
+	
+	private Integer id;
+	private String descricao;
+	
+	List<Atividade> atividades = new ArrayList<>();
+
+}

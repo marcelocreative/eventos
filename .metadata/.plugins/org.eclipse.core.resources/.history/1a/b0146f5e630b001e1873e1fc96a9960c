@@ -1,0 +1,9 @@
+package com.mgsystems.eventos.entidades;
+
+public class Participante {
+	
+	private Integer id;
+	private String name;
+	private String email;
+
+}

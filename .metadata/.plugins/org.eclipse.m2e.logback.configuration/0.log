@@ -1,0 +1,515 @@
+2023-06-14 10:13:51,969 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-06-14 10:15:25,659 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mgsystems:eventos:0.0.1-SNAPSHOT @ D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\pom.xml.
+2023-06-14 10:15:31,480 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /eventos/src/main/java
+2023-06-14 10:15:31,481 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /eventos/src/main/resources
+2023-06-14 10:15:31,510 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /eventos/src/main/resources
+2023-06-14 10:15:31,530 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /eventos/src/test/java
+2023-06-14 10:15:39,043 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 20 sec
+2023-06-14 10:15:39,052 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-06-14 10:15:39,862 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mgsystems:eventos:0.0.1-SNAPSHOT @ D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\pom.xml.
+2023-06-14 10:15:41,338 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /eventos/src/main/java
+2023-06-14 10:15:41,339 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /eventos/src/main/resources
+2023-06-14 10:15:41,340 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /eventos/src/main/resources
+2023-06-14 10:15:41,342 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /eventos/src/test/java
+2023-06-14 10:15:42,238 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2023-06-14 10:15:43,912 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-14 10:15:43,949 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-14 10:15:43,953 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-14 10:17:49,033 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-14 10:17:49,083 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-14 10:17:49,095 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-14 10:20:32,618 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-14 10:20:32,649 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-14 10:20:32,653 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-14 10:21:02,137 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-14 10:21:02,154 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-14 10:21:02,159 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-14 10:21:22,976 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-14 10:21:22,980 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-14 10:21:22,989 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-14 10:21:33,248 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-14 10:21:33,251 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-14 10:21:33,255 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-14 10:26:19,222 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-14 10:26:19,235 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-14 10:26:19,238 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-14 10:27:11,003 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-14 10:27:11,012 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-14 10:27:11,021 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-14 10:27:20,907 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-14 10:27:20,914 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-14 10:27:20,919 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-14 10:28:01,796 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-14 10:28:01,805 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-14 10:28:01,809 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-14 10:28:49,923 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-14 10:28:49,932 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-14 10:28:49,936 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-14 10:52:28,494 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-14 10:52:28,534 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-14 10:52:28,537 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-14 10:52:50,811 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-14 10:52:50,901 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-14 10:52:50,909 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-14 10:53:25,418 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-14 10:53:25,427 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-14 10:53:25,430 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-14 10:59:22,813 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-06-14 11:01:13,150 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-14 11:01:13,208 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-14 11:01:13,215 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-14 11:09:21,056 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-14 11:09:21,200 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-14 11:09:21,208 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-14 11:09:52,168 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-14 11:09:52,180 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-14 11:09:52,206 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-14 11:11:55,444 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-06-14 11:14:36,686 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-14 11:14:36,731 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-14 11:14:36,755 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-14 11:19:18,116 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-14 11:19:18,128 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-14 11:19:18,137 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-14 11:21:16,028 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-14 11:21:16,055 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-14 11:21:16,061 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-14 11:21:52,833 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-14 11:21:52,845 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-14 11:21:52,867 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-14 11:23:12,024 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-14 11:23:12,035 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-14 11:23:12,045 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-14 11:24:03,597 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-14 11:24:03,606 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-14 11:24:03,612 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-14 11:24:35,073 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-14 11:24:35,084 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-14 11:24:35,090 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-14 11:25:02,524 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-14 11:25:02,540 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-14 11:25:02,550 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-14 11:25:27,722 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-14 11:25:28,011 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-14 11:25:28,018 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-14 11:25:46,566 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-14 11:25:46,580 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-14 11:26:19,636 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-14 11:26:19,638 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-14 11:26:19,647 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-14 11:28:48,298 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-14 11:28:48,298 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-14 11:28:48,307 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-14 11:29:14,851 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-06-14 11:29:14,861 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-14 11:31:56,522 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-06-14 11:37:25,606 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-06-14 11:37:25,638 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-14 11:38:18,911 [Worker-1: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mgsystems:eventos:0.0.1-SNAPSHOT @ D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\pom.xml.
+2023-06-14 11:38:22,580 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-06-14 11:38:22,620 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-14 11:38:32,052 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-06-14 11:38:32,811 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mgsystems:eventos:0.0.1-SNAPSHOT @ D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\pom.xml.
+2023-06-14 11:38:34,648 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /eventos/src/main/java
+2023-06-14 11:38:34,649 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /eventos/src/main/resources
+2023-06-14 11:38:34,650 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /eventos/src/main/resources
+2023-06-14 11:38:34,652 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /eventos/src/test/java
+2023-06-14 11:38:37,344 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 5 sec
+2023-06-14 11:38:40,753 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-06-14 11:38:40,806 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-14 11:39:43,729 [Worker-11: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mgsystems:eventos:0.0.1-SNAPSHOT @ D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\pom.xml.
+2023-06-14 11:39:47,184 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-14 11:39:47,184 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta true
+2023-06-14 11:39:47,185 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-06-14 11:39:47,186 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file application-test.properties
+2023-06-14 11:39:47,220 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file application.properties
+2023-06-14 11:39:47,224 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta true
+2023-06-14 11:39:47,226 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-14 11:39:47,226 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file import.sql
+2023-06-14 11:39:47,239 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-14 11:39:47,239 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-14 11:39:51,993 [Worker-10: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mgsystems:eventos:0.0.1-SNAPSHOT @ D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\pom.xml.
+2023-06-14 11:39:53,292 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-14 11:39:53,293 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta true
+2023-06-14 11:39:53,294 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-06-14 11:39:53,294 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file application-test.properties
+2023-06-14 11:39:53,322 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file application.properties
+2023-06-14 11:39:53,324 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta true
+2023-06-14 11:39:53,325 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-14 11:39:53,325 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file import.sql
+2023-06-14 11:39:53,330 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-14 11:39:53,330 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-14 11:40:02,802 [Worker-10: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-06-14 11:40:03,410 [Worker-10: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mgsystems:eventos:0.0.1-SNAPSHOT @ D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\pom.xml.
+2023-06-14 11:40:04,606 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /eventos/src/main/java
+2023-06-14 11:40:04,607 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /eventos/src/main/resources
+2023-06-14 11:40:04,608 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /eventos/src/main/resources
+2023-06-14 11:40:04,610 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /eventos/src/test/java
+2023-06-14 11:40:05,388 [Worker-10: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2023-06-14 11:40:07,710 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-14 11:40:07,711 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta true
+2023-06-14 11:40:07,712 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-06-14 11:40:07,712 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file application-test.properties
+2023-06-14 11:40:07,777 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file application.properties
+2023-06-14 11:40:07,778 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta true
+2023-06-14 11:40:07,779 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-14 11:40:07,779 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file import.sql
+2023-06-14 11:40:07,790 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-14 11:40:07,790 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-14 11:40:07,936 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-14 11:40:07,937 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta true
+2023-06-14 11:40:07,937 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-06-14 11:40:07,938 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file application-test.properties
+2023-06-14 11:40:07,940 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file application.properties
+2023-06-14 11:40:07,942 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta true
+2023-06-14 11:40:07,942 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-14 11:40:07,943 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file import.sql
+2023-06-14 11:40:07,947 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-14 11:40:07,948 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-15 06:18:49,199 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-06-15 06:26:24,370 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 06:26:24,370 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta true
+2023-06-15 06:26:24,375 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-06-15 06:26:24,376 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file application-test.properties
+2023-06-15 06:26:24,400 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file application.properties
+2023-06-15 06:26:24,412 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta true
+2023-06-15 06:26:24,414 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-15 06:26:24,415 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file import.sql
+2023-06-15 06:26:24,432 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 06:26:24,432 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-15 06:26:24,952 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 06:26:24,952 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta true
+2023-06-15 06:26:24,954 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-06-15 06:26:24,954 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file application-test.properties
+2023-06-15 06:26:24,956 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file application.properties
+2023-06-15 06:26:24,958 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta true
+2023-06-15 06:26:24,959 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-15 06:26:24,959 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file import.sql
+2023-06-15 06:26:24,969 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 06:26:24,969 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-15 06:26:26,643 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 06:26:26,643 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta true
+2023-06-15 06:26:26,644 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-06-15 06:26:26,644 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file application-test.properties
+2023-06-15 06:26:26,646 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file application.properties
+2023-06-15 06:26:26,648 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta true
+2023-06-15 06:26:26,649 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-15 06:26:26,649 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file import.sql
+2023-06-15 06:26:26,654 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 06:26:26,654 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-15 06:27:35,220 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 06:27:35,222 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta true
+2023-06-15 06:27:35,225 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-06-15 06:27:35,228 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file application-test.properties
+2023-06-15 06:27:35,234 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file application.properties
+2023-06-15 06:27:35,258 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta true
+2023-06-15 06:27:35,262 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-15 06:27:35,265 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file import.sql
+2023-06-15 06:27:35,270 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 06:27:35,270 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-15 06:32:34,620 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 06:32:34,621 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta true
+2023-06-15 06:32:34,622 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-06-15 06:32:34,622 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file application-test.properties
+2023-06-15 06:32:34,625 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file application.properties
+2023-06-15 06:32:34,628 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta true
+2023-06-15 06:32:34,629 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-15 06:32:34,630 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file import.sql
+2023-06-15 06:32:34,634 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 06:32:34,634 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-15 06:37:39,234 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 06:37:39,235 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta true
+2023-06-15 06:37:39,236 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-06-15 06:37:39,236 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file application-test.properties
+2023-06-15 06:37:39,238 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file application.properties
+2023-06-15 06:37:39,239 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta true
+2023-06-15 06:37:39,241 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-15 06:37:39,241 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file import.sql
+2023-06-15 06:37:39,245 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 06:37:39,246 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-15 06:37:58,948 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 06:37:58,948 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta true
+2023-06-15 06:37:58,949 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-06-15 06:37:58,949 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file application-test.properties
+2023-06-15 06:37:58,951 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file application.properties
+2023-06-15 06:37:58,953 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta true
+2023-06-15 06:37:58,954 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-15 06:37:58,954 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file import.sql
+2023-06-15 06:37:58,958 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 06:37:58,959 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-15 06:39:31,898 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 06:39:31,898 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta true
+2023-06-15 06:39:31,899 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-06-15 06:39:31,900 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file application-test.properties
+2023-06-15 06:39:31,903 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file application.properties
+2023-06-15 06:39:31,904 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta true
+2023-06-15 06:39:31,906 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-15 06:39:31,906 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file import.sql
+2023-06-15 06:39:31,914 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 06:39:31,914 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-15 06:40:40,745 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 06:40:40,746 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta true
+2023-06-15 06:40:40,748 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-06-15 06:40:40,748 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file application-test.properties
+2023-06-15 06:40:40,750 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file application.properties
+2023-06-15 06:40:40,752 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta true
+2023-06-15 06:40:40,753 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-15 06:40:40,754 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file import.sql
+2023-06-15 06:40:40,761 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 06:40:40,761 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-15 06:41:11,998 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 06:41:11,998 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta true
+2023-06-15 06:41:11,999 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-06-15 06:41:12,000 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file application-test.properties
+2023-06-15 06:41:12,002 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file application.properties
+2023-06-15 06:41:12,003 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta true
+2023-06-15 06:41:12,005 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-15 06:41:12,005 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file import.sql
+2023-06-15 06:41:12,009 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 06:41:12,010 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-15 06:43:48,225 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 06:43:48,226 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta true
+2023-06-15 06:43:48,227 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-06-15 06:43:48,227 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file application-test.properties
+2023-06-15 06:43:48,229 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file application.properties
+2023-06-15 06:43:48,230 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta true
+2023-06-15 06:43:48,232 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-15 06:43:48,233 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file import.sql
+2023-06-15 06:43:48,237 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 06:43:48,237 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-15 06:44:47,331 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 06:44:47,332 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta true
+2023-06-15 06:44:47,333 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-06-15 06:44:47,333 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file application-test.properties
+2023-06-15 06:44:47,334 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file application.properties
+2023-06-15 06:44:47,336 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta true
+2023-06-15 06:44:47,337 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-15 06:44:47,337 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file import.sql
+2023-06-15 06:44:47,341 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 06:44:47,342 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-15 06:53:59,454 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 06:53:59,455 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta false
+2023-06-15 06:53:59,457 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-15 06:53:59,457 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta false
+2023-06-15 06:53:59,457 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-15 06:53:59,457 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file import.sql
+2023-06-15 06:53:59,463 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 06:53:59,464 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-15 06:55:55,531 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 06:55:55,532 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta false
+2023-06-15 06:55:55,532 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-15 06:55:55,533 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta false
+2023-06-15 06:55:55,533 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-15 06:55:55,533 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file import.sql
+2023-06-15 06:55:55,542 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 06:55:55,542 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-15 06:58:07,920 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 06:58:07,920 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta true
+2023-06-15 06:58:07,922 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-06-15 06:58:07,922 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file application-test.properties
+2023-06-15 06:58:07,923 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file application.properties
+2023-06-15 06:58:07,925 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta true
+2023-06-15 06:58:07,926 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-15 06:58:07,926 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file import.sql
+2023-06-15 06:58:07,975 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 06:58:07,975 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-15 06:58:54,085 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 06:58:54,085 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta true
+2023-06-15 06:58:54,086 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-06-15 06:58:54,087 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file application-test.properties
+2023-06-15 06:58:54,088 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file application.properties
+2023-06-15 06:58:54,090 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta true
+2023-06-15 06:58:54,091 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-15 06:58:54,091 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file import.sql
+2023-06-15 06:58:54,100 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 06:58:54,101 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-15 06:59:51,190 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 06:59:51,190 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta true
+2023-06-15 06:59:51,191 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-06-15 06:59:51,191 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file application-test.properties
+2023-06-15 06:59:51,193 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file application.properties
+2023-06-15 06:59:51,196 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta true
+2023-06-15 06:59:51,197 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-15 06:59:51,197 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file import.sql
+2023-06-15 06:59:51,200 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 06:59:51,201 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-15 07:00:42,137 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 07:00:42,137 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta true
+2023-06-15 07:00:42,138 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-06-15 07:00:42,139 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file application-test.properties
+2023-06-15 07:00:42,140 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file application.properties
+2023-06-15 07:00:42,141 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta true
+2023-06-15 07:00:42,142 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-15 07:00:42,143 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file import.sql
+2023-06-15 07:00:42,148 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 07:00:42,149 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-15 07:01:48,806 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 07:01:48,807 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta true
+2023-06-15 07:01:48,808 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-06-15 07:01:48,808 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file application-test.properties
+2023-06-15 07:01:48,809 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file application.properties
+2023-06-15 07:01:48,811 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta true
+2023-06-15 07:01:48,812 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-15 07:01:48,812 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file import.sql
+2023-06-15 07:01:48,815 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 07:01:48,815 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-15 07:30:57,988 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 07:30:57,989 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta true
+2023-06-15 07:30:57,990 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-06-15 07:30:57,991 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file application-test.properties
+2023-06-15 07:30:57,992 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file application.properties
+2023-06-15 07:30:58,011 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta true
+2023-06-15 07:30:58,012 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-15 07:30:58,013 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file import.sql
+2023-06-15 07:30:58,016 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 07:30:58,016 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-15 07:31:54,808 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 07:31:54,809 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta true
+2023-06-15 07:31:54,810 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-06-15 07:31:54,810 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file application-test.properties
+2023-06-15 07:31:54,812 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file application.properties
+2023-06-15 07:31:54,813 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta true
+2023-06-15 07:31:54,817 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-15 07:31:54,817 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file import.sql
+2023-06-15 07:31:54,821 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 07:31:54,822 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-15 07:32:04,215 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 07:32:04,216 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta true
+2023-06-15 07:32:04,217 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-06-15 07:32:04,218 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file application-test.properties
+2023-06-15 07:32:04,219 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file application.properties
+2023-06-15 07:32:04,220 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta true
+2023-06-15 07:32:04,221 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-15 07:32:04,222 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file import.sql
+2023-06-15 07:32:04,225 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 07:32:04,225 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-15 07:36:28,343 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 07:36:28,344 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta true
+2023-06-15 07:36:28,345 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-06-15 07:36:28,345 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file application-test.properties
+2023-06-15 07:36:28,347 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file application.properties
+2023-06-15 07:36:28,348 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta true
+2023-06-15 07:36:28,349 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-15 07:36:28,349 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file import.sql
+2023-06-15 07:36:28,352 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 07:36:28,352 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-15 07:37:02,026 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 07:37:02,026 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta true
+2023-06-15 07:37:02,027 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-06-15 07:37:02,028 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file application-test.properties
+2023-06-15 07:37:02,029 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file application.properties
+2023-06-15 07:37:02,031 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta true
+2023-06-15 07:37:02,032 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-15 07:37:02,032 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file import.sql
+2023-06-15 07:37:02,035 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 07:37:02,036 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-15 07:38:34,622 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 07:38:34,624 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta true
+2023-06-15 07:38:34,625 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-06-15 07:38:34,625 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file application-test.properties
+2023-06-15 07:38:34,627 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file application.properties
+2023-06-15 07:38:34,628 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta true
+2023-06-15 07:38:34,629 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-15 07:38:34,630 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file import.sql
+2023-06-15 07:38:34,633 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 07:38:34,633 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-15 07:44:08,023 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 07:44:08,024 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta false
+2023-06-15 07:44:08,024 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-15 07:44:08,024 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta false
+2023-06-15 07:44:08,025 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-15 07:44:08,025 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file import.sql
+2023-06-15 07:44:08,031 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 07:44:08,032 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-15 07:47:17,778 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 07:47:17,779 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta false
+2023-06-15 07:47:17,779 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-15 07:47:17,779 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta false
+2023-06-15 07:47:17,780 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-15 07:47:17,780 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file import.sql
+2023-06-15 07:47:17,785 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 07:47:17,785 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-15 07:48:50,458 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 07:48:50,459 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta true
+2023-06-15 07:48:50,460 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-06-15 07:48:50,461 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file application-test.properties
+2023-06-15 07:48:50,463 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file application.properties
+2023-06-15 07:48:50,465 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta true
+2023-06-15 07:48:50,467 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-15 07:48:50,467 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file import.sql
+2023-06-15 07:48:50,471 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 07:48:50,471 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-15 07:49:04,135 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 07:49:04,135 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta true
+2023-06-15 07:49:04,136 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-06-15 07:49:04,136 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file application-test.properties
+2023-06-15 07:49:04,138 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file application.properties
+2023-06-15 07:49:04,139 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta true
+2023-06-15 07:49:04,140 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-15 07:49:04,141 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file import.sql
+2023-06-15 07:49:04,144 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 07:49:04,144 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-15 07:49:18,407 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 07:49:18,408 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta true
+2023-06-15 07:49:18,409 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-06-15 07:49:18,409 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file application-test.properties
+2023-06-15 07:49:18,412 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file application.properties
+2023-06-15 07:49:18,413 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta true
+2023-06-15 07:49:18,415 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-15 07:49:18,415 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file import.sql
+2023-06-15 07:49:18,419 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 07:49:18,420 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-15 07:49:36,504 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 07:49:36,505 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta true
+2023-06-15 07:49:36,506 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-06-15 07:49:36,507 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file application-test.properties
+2023-06-15 07:49:36,508 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file application.properties
+2023-06-15 07:49:36,510 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta true
+2023-06-15 07:49:36,511 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-15 07:49:36,511 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file import.sql
+2023-06-15 07:49:36,515 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 07:49:36,515 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-15 07:49:47,972 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 07:49:47,972 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta true
+2023-06-15 07:49:47,973 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-06-15 07:49:47,973 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file application-test.properties
+2023-06-15 07:49:47,974 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file application.properties
+2023-06-15 07:49:47,976 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta true
+2023-06-15 07:49:47,977 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-15 07:49:47,977 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file import.sql
+2023-06-15 07:49:47,980 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 07:49:47,980 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-15 07:50:00,587 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 07:50:00,587 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta true
+2023-06-15 07:50:00,588 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-06-15 07:50:00,588 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file application-test.properties
+2023-06-15 07:50:00,589 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file application.properties
+2023-06-15 07:50:00,591 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta true
+2023-06-15 07:50:00,592 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-15 07:50:00,592 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file import.sql
+2023-06-15 07:50:00,595 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 07:50:00,596 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-15 07:51:26,985 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 07:51:26,986 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta false
+2023-06-15 07:51:26,986 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-15 07:51:26,986 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta false
+2023-06-15 07:51:26,986 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-15 07:51:26,986 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file import.sql
+2023-06-15 07:51:26,990 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 07:51:26,991 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-15 07:54:00,197 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 07:54:00,197 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta false
+2023-06-15 07:54:00,197 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-15 07:54:00,197 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta false
+2023-06-15 07:54:00,197 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-15 07:54:00,198 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file import.sql
+2023-06-15 07:54:00,202 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 07:54:00,202 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources
+2023-06-15 07:55:17,331 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 07:55:17,332 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta false
+2023-06-15 07:55:17,332 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-15 07:55:17,332 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta false
+2023-06-15 07:55:17,332 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-15 07:55:17,332 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file import.sql
+2023-06-15 07:55:17,338 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 07:55:17,338 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\Estudos\Projetos\Java-Spring-Essential\Eventos\eventos\src\test\resources

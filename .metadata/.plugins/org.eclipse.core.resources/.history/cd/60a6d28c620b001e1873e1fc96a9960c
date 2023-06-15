@@ -1,0 +1,5 @@
+insert into tb_categoria (descricao) values('Curso');
+insert into tb_categoria (descricao) values('Oficina');
+
+insert into tb_atividade(nome, descricao, preco, categoria_id) values('Curso de HTML', 'Aprenda HTML de forma prática', 80.00, 1);
+insert into tb_atividade(nome, descricao, preco, categoria_id) values('Oficina ', 'Controle versões do seu projeto', 50.00, 2);

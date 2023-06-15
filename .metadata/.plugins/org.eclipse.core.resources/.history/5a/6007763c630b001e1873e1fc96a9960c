@@ -1,0 +1,5 @@
+package com.mgsystems.eventos.entidades;
+
+public class Participante {
+
+}

@@ -1,0 +1,2 @@
+insert into categoria (descricao) values('curso');
+insert into categoria (descricao) values('oficina');

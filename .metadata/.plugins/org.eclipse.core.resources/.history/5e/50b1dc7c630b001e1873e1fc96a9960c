@@ -1,0 +1,14 @@
+package com.mgsystems.eventos.entidades;
+
+import jakarta.persistence.Entity;
+import jakarta.persistence.Table;
+
+@Entity
+@Table(name="tb_participante")
+public class Participante {
+	
+	private Integer id;
+	private String name;
+	private String email;
+
+}

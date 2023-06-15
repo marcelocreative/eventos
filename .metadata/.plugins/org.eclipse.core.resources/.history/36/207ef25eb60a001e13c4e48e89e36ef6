@@ -1,0 +1,13 @@
+package com.mgsystems.eventos;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class Categoria {
+	
+	private Integer id;
+	private String descricao;
+	
+	List<Atividade> atividades = new ArrayList<>();
+
+}

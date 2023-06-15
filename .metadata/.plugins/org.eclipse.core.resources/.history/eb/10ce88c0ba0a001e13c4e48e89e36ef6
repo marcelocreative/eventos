@@ -1,0 +1,21 @@
+package com.mgsystems.eventos.entidades;
+
+import jakarta.persistence.JoinColumn;
+import jakarta.persistence.JoinTable;
+import jakarta.persistence.ManyToOne;
+
+public class Atividade {
+	
+	private Integer id;
+	private String nome;
+	private String descricao;
+	private Double preco;
+	
+	@ManyToOne
+	@JoinTable(name= "tb_atividade_categoria",
+				joinColumns = @JoinColumn(name="atividade_id"),
+				inverseJoinColumns = @JoinColumn(name= "categoria_id")
+			)
+	private Categoria categoria;
+
+}
